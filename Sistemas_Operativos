@@ -5,7 +5,7 @@ cat mi_archivo.txt
 echo "Tipo de archivo de mi_archivo.txt:"
 file mi_archivo.txt
 echo "Buscando la palabra 'secreta' en mi_archivo.txt:"
-grep -i "secreta" mi_archivo.txt
+grep -i "archivo" mi_archivo.txt
 base64 mi_archivo.txt > mi_archivo_base64.txt
 echo "Contenido del archivo mi_archivo_base64.txt:"
 cat mi_archivo_base64.txt
