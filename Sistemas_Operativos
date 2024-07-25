@@ -1,7 +1,4 @@
 #!/bin/bash
-cd /tmp
-mkdir mi_directorio
-cd mi_directorio
 echo "Este es un archivo de prueba. Buscando la palabra secreta. " > mi_archivo.txt
 echo "Contenido del archivo mi_archivo.txt:"
 cat mi_archivo.txt
